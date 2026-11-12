@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.git/
+entrees/
+resultats/
+preuves/
+*.tar
